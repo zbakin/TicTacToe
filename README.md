@@ -13,7 +13,9 @@ g++ main.cpp -o tictactoe
 There are 2 players.
 Enter the numbers in turn from 0 to 8(going from top left to bottom right), until one of the players wins.
 
-'''
+---
+**NOTE**
+
 Starting the TicTacToe Game!!!
 
 Player 1, please choose the position on the board:
@@ -38,7 +40,7 @@ Player 1, please choose the position on the board:
  ___ ___ ___
 Congratulations Player 1. You've won! Game over.
 
- '''
+---
 
  
 
